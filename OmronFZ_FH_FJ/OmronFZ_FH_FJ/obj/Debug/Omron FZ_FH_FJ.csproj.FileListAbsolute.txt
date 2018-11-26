@@ -1,0 +1,16 @@
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\bin\Debug\影像比對資料擷取(視窗).exe.config
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\bin\Debug\影像比對資料擷取(視窗).exe
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\bin\Debug\影像比對資料擷取(視窗).pdb
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\bin\Debug\FZ-Control.dll
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\bin\Debug\FZ-Control.resources.dll
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\bin\Debug\en\FZ-Control.resources.dll
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\bin\Debug\ja\FZ-Control.resources.dll
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\obj\Debug\Omron FZ_FH_FJ.csprojAssemblyReference.cache
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\obj\Debug\影像比對資料擷取_視窗_.Form1.resources
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\obj\Debug\影像比對資料擷取_視窗_.Properties.Resources.resources
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\obj\Debug\Omron FZ_FH_FJ.csproj.GenerateResource.cache
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\obj\Debug\Omron FZ_FH_FJ.csproj.CoreCompileInputs.cache
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\obj\Debug\Omron FZ_FH_FJ.csproj.CopyComplete
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\obj\Debug\影像比對資料擷取(視窗).exe
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\obj\Debug\影像比對資料擷取(視窗).pdb
+C:\Users\as860215\Desktop\Campro\omron\影像比對資料擷取(視窗)\影像比對資料擷取(視窗)\obj\Debug\OmronFZ_FH_FJ_.Form1.resources
