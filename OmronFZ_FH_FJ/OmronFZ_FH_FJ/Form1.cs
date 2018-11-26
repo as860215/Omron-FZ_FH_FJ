@@ -96,9 +96,7 @@ namespace OmronFZ_FH_FJ_{
                     clientData = new byte[RDataLen];
                 }
             }
-            catch(Exception ex) {
-                //MessageBox.Show(ex.ToString());
-            }
+            catch {}
         }
         private void SckSSend(string send){
             try{
