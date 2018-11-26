@@ -41,3 +41,4 @@ C:\Users\as860215\Desktop\Campro\omron\OmronFZ_FH_FJ\OmronFZ_FH_FJ\obj\Debug\Omr
 C:\Users\as860215\Desktop\Campro\omron\OmronFZ_FH_FJ\OmronFZ_FH_FJ\obj\Debug\OmronFZ_FH_FJ.csproj.CopyComplete
 C:\Users\as860215\Desktop\Campro\omron\OmronFZ_FH_FJ\OmronFZ_FH_FJ\obj\Debug\OmronFZ_FH_FJ.exe
 C:\Users\as860215\Desktop\Campro\omron\OmronFZ_FH_FJ\OmronFZ_FH_FJ\obj\Debug\OmronFZ_FH_FJ.pdb
+C:\Users\as860215\Desktop\Campro\omron\OmronFZ_FH_FJ\OmronFZ_FH_FJ\obj\Debug\OmronFZ_FH_FJ.csprojAssemblyReference.cache
