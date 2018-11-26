@@ -34,7 +34,6 @@ C:\Users\as860215\Desktop\Campro\omron\OmronFZ_FH_FJ\OmronFZ_FH_FJ\bin\Debug\FZ-
 C:\Users\as860215\Desktop\Campro\omron\OmronFZ_FH_FJ\OmronFZ_FH_FJ\bin\Debug\FZ-Control.resources.dll
 C:\Users\as860215\Desktop\Campro\omron\OmronFZ_FH_FJ\OmronFZ_FH_FJ\bin\Debug\en\FZ-Control.resources.dll
 C:\Users\as860215\Desktop\Campro\omron\OmronFZ_FH_FJ\OmronFZ_FH_FJ\bin\Debug\ja\FZ-Control.resources.dll
-C:\Users\as860215\Desktop\Campro\omron\OmronFZ_FH_FJ\OmronFZ_FH_FJ\obj\Debug\OmronFZ_FH_FJ.csprojAssemblyReference.cache
 C:\Users\as860215\Desktop\Campro\omron\OmronFZ_FH_FJ\OmronFZ_FH_FJ\obj\Debug\OmronFZ_FH_FJ_.Form1.resources
 C:\Users\as860215\Desktop\Campro\omron\OmronFZ_FH_FJ\OmronFZ_FH_FJ\obj\Debug\OmronFZ_FH_FJ.Properties.Resources.resources
 C:\Users\as860215\Desktop\Campro\omron\OmronFZ_FH_FJ\OmronFZ_FH_FJ\obj\Debug\OmronFZ_FH_FJ.csproj.GenerateResource.cache

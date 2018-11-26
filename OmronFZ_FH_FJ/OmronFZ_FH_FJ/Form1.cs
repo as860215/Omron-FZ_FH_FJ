@@ -10,16 +10,14 @@ using System.Net.NetworkInformation;
 namespace OmronFZ_FH_FJ_{
     public partial class Form1 : Form{
         Socket Sck; // 先行宣告Socket
-        string SckIp = "10.5.6.100";
         string SckRec = "";
         List<string> tem_Rec = new List<string>();
         int show_count = 0;
-        int SckPort = 9876;
         int RDataLen = 15;  // 以長度為15傳送資料
         public Form1(){
             InitializeComponent();
-            tb_ip.Text = SckIp;
-            tb_port.Text = SckPort.ToString();
+            tb_ip.Text = OmronFZ_FH_FJ.Properties.Settings.Default.IP;
+            tb_port.Text = OmronFZ_FH_FJ.Properties.Settings.Default.Port.ToString();
         }
         private void btn_connect_Click(object sender, EventArgs e){
             if(btn_connect.Text == "Connect"){
@@ -33,6 +31,9 @@ namespace OmronFZ_FH_FJ_{
                     lb_status.Text = "Connecting \nsuccess.";
                     btn_photo.Enabled = true;
                     btn_connect.Text = "Disconnect";
+                    OmronFZ_FH_FJ.Properties.Settings.Default.IP = tb_ip.Text;
+                    OmronFZ_FH_FJ.Properties.Settings.Default.Port = int.Parse(tb_port.Text);
+                    OmronFZ_FH_FJ.Properties.Settings.Default.Save();
                 }
                 else lb_status.Text = "Connecting \nfailed.";
             }
